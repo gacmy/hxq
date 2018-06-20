@@ -28,6 +28,7 @@ ext {
     dependencies = [
             // 依赖包 ：
             "v7" : 'com.android.support:appcompat-v7:26.1.0',
+            "recyclerview" : 'com.android.support:recyclerview-v7:26.1.0',
             "design" : 'com.android.support:design:26.1.0',
             "okhttp" : 'com.squareup.okhttp3:okhttp:3.10.0',
             "jsonrpc-ws-android" : 'fi.vtt.nubomedia:jsonrpc-ws-android:1.1.0',
